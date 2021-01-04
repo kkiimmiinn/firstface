@@ -530,3 +530,8 @@ input:focus + .switch-left + .switch-right {
 input:checked:focus + .switch-left + .switch-right {
     color: #333;
 }
+
+.add-banner {
+    width: 320px;
+    margin: 0 auto;
+}
